@@ -1,23 +1,22 @@
-# E-commerce-Sales-Power-BI-Dashboard
-Project Title: US-Based E-commerce Sales Dashboard
-
+🛒 US-Based E-commerce Sales Dashboard
 Project Overview:
-This Power BI dashboard was built for a US-based e-commerce company to provide a detailed analysis of their Year-to-Date (YTD) Sales, Profit, Quantity Sold, and Profit Margin. It also highlights year-on-year growth trends, top-performing customer categories, state-wise performance, and the best and worst shipping types.
+This Power BI Dashboard provides an in-depth analysis of sales performance for a US-based e-commerce company. It highlights key metrics like Year-to-Date (YTD) Sales, Profit, Quantity Sold, and Profit Margin, along with year-on-year growth, top-performing customer segments, and insights into state-wise and shipping method performance. This dashboard enables decision-makers to monitor sales trends and make data-driven improvements.
 
-Key Features:
+🔑 Key Features:
+📊 KPI Banner: Displays real-time metrics for YTD Sales, Profit, Quantity Sold, and Profit Margin.
+📈 Year-on-Year Growth: Visualizes monthly trends with sparklines, comparing YTD sales to previous years.
+💼 Customer Category Insights: Compares YTD and PYTD sales, tracking growth rates for various customer segments.
+📍 State & Region Analysis: Offers a detailed performance breakdown by state and region to pinpoint sales hot spots.
+🏅 Top & Bottom Products: Highlights the Top 5 and Bottom 5 products by sales, helping identify best-sellers and underperformers.
+🚚 Sales by Shipping Type: Analyzes shipping methods to reveal the most and least efficient shipping strategies.
 
-KPI Banner showing YTD Sales, Profit, Quantity Sold & Profit Margin
-Year-on-Year growth calculation with sparklines to track monthly trends
-YTD and PYTD Sales comparison with growth rates for different customer categories
-Performance analysis by State and Region
-Top 5 and Bottom 5 products by Sales
-Sales by Shipping Type
-Power BI Functionalities Covered:
+💻 Power BI Functionalities Covered:
+Connecting to MS SQL Server & Flat Files: Integrated multiple data sources for a seamless analysis experience.
+Data Modeling: Built and managed relationships across three key tables for a well-structured dataset.
+Data Cleaning & Transformation: Utilized Power Query to clean, reshape, and prepare the data for analysis.
+Advanced DAX Queries: Leveraged time intelligence functions like TOTALYTD, SAMEPERIODLASTYEAR, and CALCULATE to create dynamic and comparative metrics.
+Interactive Visualizations: Used conditional formatting, dynamic icons, and advanced charts for an engaging and insightful dashboard.
+Report Exporting & Business Insights: Generated and exported detailed reports for business decision-making.
+This project demonstrates my expertise in Power BI, SQL, and DAX by creating a data-driven solution tailored to an e-commerce business. The dashboard helps businesses optimize sales strategies by providing actionable insights into their performance, growth, and efficiency.
 
-Connecting to MS SQL Server and flat files
-Data modelling with three tables
-Data cleaning and transformation using Power Query
-Advanced DAX Queries for calculating metrics like TOTALYTD, SAMEPERIODLASTYEAR, CALCULATE, and more
-Conditional formatting, adding dynamic icons, and advanced visualizations
-Exporting reports and generating business insights
-Skills: Power BI, SQL, DAX, Data Modelling, Time Intelligence, Data Cleaning, Data Visualization
+🌟 Explore the dashboard to gain insights into the US-based e-commerce landscape and see how data visualization can enhance your business performance!
